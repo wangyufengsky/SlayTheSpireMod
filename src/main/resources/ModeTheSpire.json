@@ -1,0 +1,13 @@
+{
+  "modid": "STS_Demo",
+  "name": "STS_Demo",
+  "author_list": [
+    "wyf"
+  ],
+  "description": "a new Slay the Spire mod named STS_Demo",
+  "dependencies": [
+    "basemod"
+  ],
+  "version": "0.0.1",
+  "sts_version": "2023/01/01"
+}
